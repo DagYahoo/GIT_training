@@ -22,6 +22,6 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 ```{r}
 
-plot(cars$speed, col = "red")
+plot(cars$speed, col = "purple")
 
 ```
